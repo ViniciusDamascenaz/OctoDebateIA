@@ -31,8 +31,13 @@ Esta plataforma foi desenvolvida com o intuito de demonstrar o uso prático da I
     ```bash
     pip install -r requirements.txt
     ```
+    
+3. Insira a chave API da Groq no arquivo api_senha.py:
+    ```bash
+    https://console.groq.com/
+    ```
 
-3. Execute o aplicativo:
+4. Execute o aplicativo:
     ```bash
     streamlit run Debate.py
     ```
